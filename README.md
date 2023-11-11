@@ -1,6 +1,8 @@
 # Arduino-Themes
 Catalogue of working Arduino Ide Themes
 
+________________
+
 Imstallation:
 
 Find your Arduino Sketchbook location from within the Arduino IDE:
@@ -24,6 +26,7 @@ File > Preferences > Find the Theme drop-down list and select the desired Theme.
 ```
 Enjoy!
 
+________________
 
 Included Themes:
 
@@ -35,7 +38,7 @@ Jeff Thompson's Grey-Dark Theme:[https://github.com/jeffThompson/DarkArduinoThem
 
 Taunoe's Dark Theme:[https://github.com/taunoe/arduino-dark-theme]
 
-
+________________
 
 Not Included but worth looking at:
 
