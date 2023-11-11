@@ -28,8 +28,11 @@ Enjoy!
 Included Themes:
 
 Back-up of Default Light Theme
+
 Default Dark Theme
+
 Jeff Thompson's Grey-Dark Theme:[https://github.com/jeffThompson/DarkArduinoTheme]
+
 Taunoe's Dark Theme:[https://github.com/taunoe/arduino-dark-theme]
 
 
